@@ -1,0 +1,10 @@
+__pycache__
+.idea
+.ipynb_checkpoints
+.pytest_cache
+.vscode
+*.iml
+*.pickle
+log_cron_results.txt
+credentials.json
+timetracking_data
